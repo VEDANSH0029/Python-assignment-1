@@ -1,0 +1,8 @@
+
+===== Calorie Tracker Session =====
+Date & Time: 2025-09-26 22:18:58.858190
+chicken : 500.00 calories
+milk : 1000.00 calories
+Total calories = 1500.00
+Average calories = 750.00
+You are within your daily limit. Remaining = 1000.00 calories.
